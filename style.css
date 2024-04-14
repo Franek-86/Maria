@@ -639,7 +639,7 @@
 .info {
   color: #fff;
 
-  font-family: "Hobo BT", sans-serif;
+  font-family: "Myriad Pro", sans-serif;
   font-weight: 400;
   line-height: 1.275rem;
 }
@@ -652,6 +652,7 @@
 }
 .info-link {
   font-family: "Hobo BT", sans-serif;
+  font-size: 0.875rem;
   /* font-family: "Myriad Pro", sans-serif; */
   text-transform: uppercase;
   text-decoration: none;
@@ -660,5 +661,5 @@
   color: #993365;
   border: 5px solid #993365;
   border-radius: 15px;
-  padding: 0.875rem 1.5rem;
+  padding: 0.675rem 1.175rem;
 }
