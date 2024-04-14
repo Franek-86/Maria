@@ -245,15 +245,17 @@
 }
 @media screen and (max-width: 1000px) {
   .fullName-container {
-    font-family: "Myriad Pro", sans-serif;
-    position: absolute;
-    top: 0;
     height: 120%;
     /* width: 27rem; */
     font-size: 1rem;
-    line-height: 3rem;
   }
 }
+@media screen and (max-width: 500px) {
+  .fullName-container {
+    font-size: 0.9rem;
+  }
+}
+
 .text-container {
   font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L",
     "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -267,7 +269,7 @@
 }
 @media screen and (max-width: 1000px) {
   .text-container {
-    left: calc(150px + 1rem);
+    left: calc(150px + 0.5rem);
     width: 35vw;
     min-width: 200px;
   }
