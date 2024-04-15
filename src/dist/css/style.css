@@ -80,7 +80,6 @@ body {
 }
 .lightbox .target *:first-child,
 .lightbox .target *:last-child {
-  flex: 0 0 100px;
   text-align: center;
 }
 @media all and (max-width: 600px) {

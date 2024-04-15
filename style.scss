@@ -79,7 +79,7 @@ body {
     justify-content: space-between;
     *:first-child,
     *:last-child {
-      flex: 0 0 100px;
+      // flex: 0 0 100px;
       text-align: center;
       @media all and (max-width: 600px) {
         flex: 0 0 50px;

@@ -248,6 +248,10 @@
     height: 120%;
     /* width: 27rem; */
     font-size: 1rem;
+    top: -10px;
+  }
+  .name-container {
+    height: 1.2rem;
   }
 }
 @media screen and (max-width: 500px) {
