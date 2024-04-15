@@ -131,7 +131,7 @@
   position: absolute;
   height: 5rem;
   width: 5px;
-  background-color: #f49998;
+  background-color: #f49a98ba;
   transform: translate(3rem, -15%);
 }
 .footer-container::after {
@@ -141,7 +141,7 @@
   top: 0;
   height: 5rem;
   width: 5px;
-  background-color: #f49998;
+  background-color: #f49a98ba;
   transform: translate(0.85rem, -15%);
 }
 .footer-text h2 {
@@ -247,7 +247,7 @@
 @media screen and (max-width: 1000px) {
   .fullName-container {
     height: 120%;
-    /* width: 27rem; */
+    width: 14rem;
     font-size: 1rem;
     top: -10px;
   }
@@ -285,6 +285,7 @@
 @media screen and (max-width: 600px) {
   .main {
     height: 100vh;
+    width: 85vw;
   }
   .text-container p {
     width: 45vw;
@@ -295,6 +296,9 @@
   }
   .date-resp {
     margin-top: 0 !important;
+  }
+  .resp-footer-text {
+    display: block;
   }
 }
 
