@@ -225,7 +225,7 @@
   .name-container {
     position: absolute;
     width: 110%;
-    left: calc(150px + 0.5rem);
+    left: calc(150px + 0.875rem);
   }
   .name-container-mobile {
     display: block;
@@ -274,7 +274,7 @@
 }
 @media screen and (max-width: 1000px) {
   .text-container {
-    left: calc(150px + 0.5rem);
+    left: calc(150px + 0.875rem);
     width: 35vw;
     min-width: 200px;
   }
