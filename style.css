@@ -7,6 +7,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .main-container {
   display: flex;
   flex-direction: column;
@@ -130,7 +131,7 @@
   position: absolute;
   height: 5rem;
   width: 5px;
-  background-color: #ee8244;
+  background-color: #f49998;
   transform: translate(3rem, -15%);
 }
 .footer-container::after {
@@ -140,7 +141,7 @@
   top: 0;
   height: 5rem;
   width: 5px;
-  background-color: #ee8244;
+  background-color: #f49998;
   transform: translate(0.85rem, -15%);
 }
 .footer-text h2 {
@@ -365,7 +366,8 @@
 .first-footer {
   width: 110%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
+
   margin-left: 2rem;
 }
 .second-footer {
@@ -376,7 +378,8 @@
 .third-footer {
   width: 110%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
+  background-color: ;
   margin-left: 2rem;
 }
 .forth-footer {
@@ -387,7 +390,8 @@
 .fifth-footer {
   width: 110%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
+  background-color: ;
   margin-left: 2rem;
 }
 .sixth-footer {
@@ -398,7 +402,8 @@
 .seventh-footer {
   width: 125%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
+  background-color: ;
   margin-left: -1.85rem;
 }
 .eight-footer {
@@ -409,7 +414,8 @@
 .ninth-footer {
   width: 125%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
+  background-color: ;
   margin-left: -1.85rem;
 }
 .tenth-footer {
@@ -420,7 +426,7 @@
 .eleventh-footer {
   width: 125%;
   height: 10%;
-  background-color: #ee8244;
+  background-color: #f49a98ba;
   margin-left: -1.85rem;
 }
 .end-footer-info {
