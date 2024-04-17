@@ -512,37 +512,37 @@
 @media screen and (max-width: 600px) {
   .end-footer-other {
     right: -7%;
-    width: 9.75rem;
+    width: 8.5rem;
     height: 4rem;
   }
   .footer-one {
     width: 0.875rem !important;
-    left: 16.25% !important;
+    left: 5.5% !important;
   }
   .footer-two {
     width: 0.875rem !important;
-    left: 26.25% !important;
+    left: 18.75% !important;
   }
   .footer-three {
     width: 0.875rem !important;
-    left: 36.25% !important;
+    left: 32% !important;
   }
   .footer-four {
     width: 0.875rem !important;
-    left: 46.25% !important;
+    left: 45.25% !important;
   }
 
   .footer-five {
     width: 0.875rem !important;
-    left: 56.25% !important;
+    left: 58.5% !important;
   }
   .footer-six {
     width: 0.875rem !important;
-    left: 66.25% !important;
+    left: 71.75% !important;
   }
   .footer-seven {
     width: 0.875rem !important;
-    left: 76.25% !important;
+    left: 85% !important;
   }
 }
 .footer-one {
