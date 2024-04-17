@@ -407,7 +407,6 @@
   width: 125%;
   height: 10%;
   background-color: #f49a98ba;
-  background-color: ;
   margin-left: -1.85rem;
 }
 .eight-footer {
@@ -512,8 +511,8 @@
 }
 @media screen and (max-width: 600px) {
   .end-footer-other {
-    right: -5%;
-    width: 10rem;
+    right: -7%;
+    width: 9.75rem;
     height: 4rem;
   }
   .footer-one {
