@@ -383,7 +383,7 @@
   width: 110%;
   height: 10%;
   background-color: #f49a98ba;
-  background-color: ;
+
   margin-left: 2rem;
 }
 .forth-footer {
@@ -395,7 +395,7 @@
   width: 110%;
   height: 10%;
   background-color: #f49a98ba;
-  background-color: ;
+
   margin-left: 2rem;
 }
 .sixth-footer {
@@ -450,7 +450,7 @@
 @media screen and (max-width: 1000px) {
   .end-footer-other {
     right: -5%;
-    width: 38%;
+    width: 15rem;
     height: 4rem;
   }
   .end-footer-info p {
@@ -462,15 +462,15 @@
 
   .footer-one {
     width: 1.25rem !important;
-    left: 15% !important;
+    left: 16.25% !important;
   }
   .footer-two {
     width: 1.25rem !important;
-    left: 35% !important;
+    left: 26.25% !important;
   }
   .footer-three {
     width: 1.25rem !important;
-    left: 55% !important;
+    left: 36.25% !important;
   }
   .footer-four {
     position: absolute;
@@ -479,13 +479,71 @@
     border-radius: 5px;
     height: 5rem;
     top: 1.5rem;
-    left: 75% !important;
+    left: 46.25% !important;
   }
 
-  .footer-five,
-  .footer-six,
+  .footer-five {
+    position: absolute;
+    width: 1.25rem !important;
+    background-color: #66cdcc;
+    border-radius: 5px;
+    height: 5rem;
+    top: 1.5rem;
+    left: 56.25% !important;
+  }
+  .footer-six {
+    position: absolute;
+    width: 1.25rem !important;
+    background-color: #66cdcc;
+    border-radius: 5px;
+    height: 5rem;
+    top: 1.5rem;
+    left: 66.25% !important;
+  }
   .footer-seven {
-    display: none;
+    position: absolute;
+    width: 1.25rem !important;
+    background-color: #66cdcc;
+    border-radius: 5px;
+    height: 5rem;
+    top: 1.5rem;
+    left: 76.25% !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  .end-footer-other {
+    right: -5%;
+    width: 10rem;
+    height: 4rem;
+  }
+  .footer-one {
+    width: 0.875rem !important;
+    left: 16.25% !important;
+  }
+  .footer-two {
+    width: 0.875rem !important;
+    left: 26.25% !important;
+  }
+  .footer-three {
+    width: 0.875rem !important;
+    left: 36.25% !important;
+  }
+  .footer-four {
+    width: 0.875rem !important;
+    left: 46.25% !important;
+  }
+
+  .footer-five {
+    width: 0.875rem !important;
+    left: 56.25% !important;
+  }
+  .footer-six {
+    width: 0.875rem !important;
+    left: 66.25% !important;
+  }
+  .footer-seven {
+    width: 0.875rem !important;
+    left: 76.25% !important;
   }
 }
 .footer-one {
